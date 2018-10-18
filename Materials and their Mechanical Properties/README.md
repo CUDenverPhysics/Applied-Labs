@@ -14,7 +14,7 @@ part number.
 The Linear Potentiometer used is from Digi-Key Electronics:
 https://www.digikey.com/product-detail/en/bourns-inc/PTB0143-2010BPB103/PTB0143-2010BPB103-ND/3534166
 
-The load cell used is from  via Amazon:
-
+The load cell used is from KNACRO via Amazon:
+https://www.amazon.com/gp/product/B078W2HYPJ/
 
 Wiring on the bottom of the linear potentiometer is held in place with hot glue (see picture for setup).
