@@ -1,1 +1,13 @@
+The Structural Systems Lab is designed to allow students to measure beam bending properties with load.
+A metal strip (0.75" wide x 36" long) is placed on top of moveable platforms. These platforms allow students
+to investigate different support distances. Additionally, the platforms are able to be positioned so the
+metal strip is supported at only one end. Students hang weights on the bar and measure the amount the bar bends
+using either the dial indicator on the top bar, or with a rulers. The current assembly can accept both
+1/8" and 3/16" thick metal strips.
 
+
+Future plans:
+We noticed that the spring of the dial indicator put enough force on the metal strip to cause it to bed.
+We removed the spring and still had the same problem. We are looking into ways to get a contactless deflection
+measurement accurate to at least 0.001". Once a solution has been designed and tested, we plan to update the
+files here.
